@@ -1,5 +1,6 @@
 body{
-    background-color:#00FFFF;
+    background-color:#F0FF00;
+    
 }
     
 
@@ -9,7 +10,12 @@ body{
     width:400px;
     
 }
-
+#div{
+    background-color:#00FFFF;
+    border: 3px solid black;
+    margin:auto;
+    
+}
     
 
 p{
