@@ -1,0 +1,25 @@
+.egesz{
+    background-color:LightYellow;
+    padding: 60px;
+    border:3px solid black;
+}
+body{
+    background-color:IndianRed;
+}
+/*- - - - - - - a címek */
+h1{
+    text-align:center;
+    text-decoration:underline;
+}
+
+h2{
+    text-decoration:underline;
+}
+/* - - - - - - - szöveg, kép */
+p, ul{
+    
+}
+#kep{
+    float:right;
+    width:600px
+}
